@@ -1,6 +1,3 @@
-
-# Choclate carton distribution
-
 import java.util.*;
 public class Main {
 

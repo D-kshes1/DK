@@ -1,4 +1,4 @@
-//
+
 # Choclate carton distribution
 
 import java.util.*;
